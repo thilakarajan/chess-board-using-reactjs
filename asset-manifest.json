@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chess-board-using-reactjs/static/css/main.ea72001c.css",
+    "main.js": "/chess-board-using-reactjs/static/js/main.e2408043.js",
+    "index.html": "/chess-board-using-reactjs/index.html",
+    "main.ea72001c.css.map": "/chess-board-using-reactjs/static/css/main.ea72001c.css.map",
+    "main.e2408043.js.map": "/chess-board-using-reactjs/static/js/main.e2408043.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea72001c.css",
+    "static/js/main.e2408043.js"
+  ]
+}
